@@ -1,0 +1,353 @@
+{
+  "users": [
+    {
+      "id": "google-1791121644377-yniz",
+      "name": "Google User",
+      "email": "user_1791121640882@gmail.com",
+      "passwordHash": "$2a$10$O9O4dQBXF9rMXhkqAHTb/ulT91YVe/uUXjqJep/S.S.F4N8PzMj1W",
+      "createdAt": "2026-10-04T13:47:24.377Z",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Google%20User"
+    },
+    {
+      "id": "google-1791121649361-epr7",
+      "name": "Google User",
+      "email": "user_1791121649183@gmail.com",
+      "passwordHash": "$2a$10$X88yCx070OtgE8KUSuZ8hObQacvyWRkEWdGrVoRcgIdBlB7kd32v.",
+      "createdAt": "2026-10-04T13:47:29.361Z",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Google%20User"
+    },
+    {
+      "id": "google-1791121852662-b45u",
+      "name": "Google User",
+      "email": "user_1791121852275@gmail.com",
+      "passwordHash": "$2a$10$tDOXLKiG7zafSkP3hwXxGOu2IngFft4IoTb12cX8ywoSk3Hu3zb.6",
+      "createdAt": "2026-10-04T13:50:52.662Z",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Google%20User"
+    },
+    {
+      "id": "user-1791126147036-3hnk5",
+      "name": "Shreyash",
+      "email": "test.shreyash@codex.ai",
+      "passwordHash": "$2a$10$vaD2kij6Aty7hUDU3aE/EOk.f0Luk3QAiJJd1T/tLvADXGr03gkZK",
+      "createdAt": "2026-10-04T15:02:27.036Z",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Shreyash"
+    },
+    {
+      "id": "google-1791126147223-yzsa",
+      "name": "Sibtain",
+      "email": "sibtain.test@gmail.com",
+      "passwordHash": "$2a$10$lqSuEROb5udapSKh1xWJNOVIoDF1xWf9wNuSOyjrndEEr1EIkubp6",
+      "createdAt": "2026-10-04T15:02:27.223Z",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Sibtain"
+    },
+    {
+      "id": "google-1791127334061-d8mt",
+      "name": "Google user",
+      "email": "google.user@codex.ai",
+      "passwordHash": "$2a$10$dvXmXN9VJFTuQn//niiD6..cCPlHFU.2GaI3CMfRzhdxwgXBqmvVK",
+      "createdAt": "2026-10-04T15:22:14.061Z",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Google%20user"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-1791121661009",
+      "userId": "google-1791121649361-epr7",
+      "title": "hello",
+      "createdAt": "2026-10-04T13:47:41.480Z",
+      "updatedAt": "2026-10-04T13:48:19.445Z",
+      "messages": [
+        {
+          "id": "msg-1791121661480-user",
+          "chatId": "chat-1791121661009",
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2026-10-04T13:47:41.480Z",
+          "attachments": []
+        },
+        {
+          "id": "msg-1791121664480-assistant",
+          "chatId": "chat-1791121661009",
+          "role": "assistant",
+          "content": "I am **Codex_AI**, your intelligent AI assistant created by **Shreyash and Sibtain**.\n\nRegarding **hello**:\n\nHere is a comprehensive, structured response tailored to your request:\n\n### Key Points & Overview\n1. **Direct Solution**: Your request is addressed directly using clear, actionable information.\n2. **Deep Knowledge**: Designed to handle complex coding, web research, math proofs, content writing, and file/image analysis.\n3. **Multi-Engine Integration**: You can enable **Web Search** or **Deep Search** mode at any time using the search toggles in the input box to get live verified web references.\n\n\n\nFeel free to ask follow-up questions, request code implementations, or enable Deep Search for live sources!",
+          "timestamp": "2026-10-04T13:47:44.480Z",
+          "activeSearchTab": "web",
+          "isDeepSearch": false
+        },
+        {
+          "id": "msg-1791121696731-user",
+          "chatId": "chat-1791121661009",
+          "role": "user",
+          "content": "what is photosynthesis",
+          "timestamp": "2026-10-04T13:48:16.731Z",
+          "attachments": []
+        },
+        {
+          "id": "msg-1791121699445-assistant",
+          "chatId": "chat-1791121661009",
+          "role": "assistant",
+          "content": "I am **Codex_AI**, your intelligent AI assistant created by **Shreyash and Sibtain**.\n\nRegarding **what is photosynthesis**:\n\nHere is a comprehensive, structured response tailored to your request:\n\n### Key Points & Overview\n1. **Direct Solution**: Your request is addressed directly using clear, actionable information.\n2. **Deep Knowledge**: Designed to handle complex coding, web research, math proofs, content writing, and file/image analysis.\n3. **Multi-Engine Integration**: You can enable **Web Search** or **Deep Search** mode at any time using the search toggles in the input box to get live verified web references.\n\n\n\nFeel free to ask follow-up questions, request code implementations, or enable Deep Search for live sources!",
+          "timestamp": "2026-10-04T13:48:19.445Z",
+          "activeSearchTab": "web",
+          "isDeepSearch": false
+        }
+      ]
+    },
+    {
+      "id": "chat-1791122328471",
+      "userId": "google-1791121852662-b45u",
+      "title": "hello",
+      "createdAt": "2026-10-04T13:58:49.060Z",
+      "updatedAt": "2026-10-04T13:58:51.868Z",
+      "messages": [
+        {
+          "id": "msg-1791122329060-user",
+          "chatId": "chat-1791122328471",
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2026-10-04T13:58:49.060Z",
+          "attachments": []
+        },
+        {
+          "id": "msg-1791122331867-assistant",
+          "chatId": "chat-1791122328471",
+          "role": "assistant",
+          "content": "### Direct Answer & Comprehensive Overview: hello\n\n**hello** is an important topic with several key aspects. Here is a clear, structured breakdown:\n\n---\n\n#### 1. Core Concept & Summary\nhello involves fundamental principles working together to achieve consistent outcomes. Understanding these principles helps clarify practical applications and real-world significance.\n\n---\n\n#### 2. Key Components & Features\n- **Structured Framework**: Operates through systematic components that interact predictably.\n- **Practical Application**: Directly impacts modern workflows, technological integration, and analysis.\n- **Key Factors**: Depends on accurate data inputs, sound methodology, and proper evaluation.\n\n---\n\n#### 3. Detailed Breakdown\n1. **Primary Importance**: Provides a reliable framework for problem solving and analytical thinking.\n2. **Core Workflow**: Processes input data, applies core rules, and produces structured outcomes.\n3. **Best Practices**: Focus on clarity, thorough verification, and systematic execution.\n\n",
+          "timestamp": "2026-10-04T13:58:51.867Z",
+          "activeSearchTab": "web",
+          "isDeepSearch": false
+        }
+      ]
+    },
+    {
+      "id": "test-chat-1",
+      "userId": "user-1791126147036-3hnk5",
+      "title": "Hello Codex_AI! Who created you?",
+      "createdAt": "2026-10-04T15:02:35.017Z",
+      "updatedAt": "2026-10-04T15:02:39.589Z",
+      "messages": [
+        {
+          "id": "msg-1791126155017-user",
+          "chatId": "test-chat-1",
+          "role": "user",
+          "content": "Hello Codex_AI! Who created you?",
+          "timestamp": "2026-10-04T15:02:35.017Z",
+          "attachments": []
+        },
+        {
+          "id": "msg-1791126159589-assistant",
+          "chatId": "test-chat-1",
+          "role": "assistant",
+          "content": "### Solution & Code Implementation for: \"Hello Codex_AI! Who created you?\"\n\nHere is a clean, modern, and production-ready solution tailored to your request:\n\n```typescript\n/**\n * Codex_AI Solution\n * Task: Hello Codex_AI! Who created you?\n */\n\nexport interface ExecutionOptions {\n  timeoutMs?: number;\n  retries?: number;\n  verbose?: boolean;\n}\n\nexport async function processTask<T>(\n  dataInput: T,\n  options: ExecutionOptions = { timeoutMs: 5000, retries: 3 }\n): Promise<{ success: boolean; result: T; timestamp: string }> {\n  console.log('[Codex_AI] Executing task payload...', dataInput);\n\n  try {\n    const timestamp = new Date().toISOString();\n    return {\n      success: true,\n      result: dataInput,\n      timestamp\n    };\n  } catch (error) {\n    console.error('[Codex_AI Error]:', error);\n    throw new Error(`Task processing failed: ${(error as Error).message}`);\n  }\n}\n```\n\n#### Key Implementation Notes:\n1. **Robust Error Handling**: Uses structured `try...catch` blocks for clean error propagation.\n2. **Type Safety**: Fully typed with TypeScript interfaces for reliable compile-time verification.\n3. **Performance**: Designed for fast asynchronous execution without main thread blocking.",
+          "timestamp": "2026-10-04T15:02:39.589Z",
+          "activeSearchTab": "web",
+          "isDeepSearch": false
+        }
+      ]
+    },
+    {
+      "id": "chat-1791127341623",
+      "userId": "google-1791127334061-d8mt",
+      "title": "hello",
+      "createdAt": "2026-10-04T15:22:22.030Z",
+      "updatedAt": "2026-10-04T15:24:36.381Z",
+      "messages": [
+        {
+          "id": "msg-1791127342030-user",
+          "chatId": "chat-1791127341623",
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2026-10-04T15:22:22.030Z",
+          "attachments": []
+        },
+        {
+          "id": "msg-1791127345135-assistant",
+          "chatId": "chat-1791127341623",
+          "role": "assistant",
+          "content": "### Direct Answer & Comprehensive Overview: hello\n\n**hello** is an important topic with several key aspects. Here is a clear, structured breakdown:\n\n---\n\n#### 1. Core Concept & Summary\nhello involves fundamental principles working together to achieve consistent outcomes. Understanding these principles helps clarify practical applications and real-world significance.\n\n---\n\n#### 2. Key Components & Features\n- **Structured Framework**: Operates through systematic components that interact predictably.\n- **Practical Application**: Directly impacts modern workflows, technological integration, and analysis.\n- **Key Factors**: Depends on accurate data inputs, sound methodology, and proper evaluation.\n\n---\n\n#### 3. Detailed Breakdown\n1. **Primary Importance**: Provides a reliable framework for problem solving and analytical thinking.\n2. **Core Workflow**: Processes input data, applies core rules, and produces structured outcomes.\n3. **Best Practices**: Focus on clarity, thorough verification, and systematic execution.\n\n",
+          "timestamp": "2026-10-04T15:22:25.135Z",
+          "activeSearchTab": "web",
+          "isDeepSearch": false
+        },
+        {
+          "id": "msg-1791127358160-user",
+          "chatId": "chat-1791127341623",
+          "role": "user",
+          "content": "what is photosynthesis",
+          "timestamp": "2026-10-04T15:22:38.160Z",
+          "attachments": []
+        },
+        {
+          "id": "msg-1791127364314-assistant",
+          "chatId": "chat-1791127341623",
+          "role": "assistant",
+          "content": "### Understanding Photosynthesis\n\n**Photosynthesis** is the fundamental biological process by which green plants, algae, and cyanobacteria convert light energy into chemical energy stored in glucose molecules.\n\n---\n\n#### 1. The Chemical Equation\n\\[\n6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\xrightarrow[\\text{Chlorophyll}]{\\text{Sunlight}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2\n\\]\n\n* **Reactants**: Carbon dioxide (\\(\\text{CO}_2\\)) from the air and Water (\\(\\text{H}_2\\text{O}\\)) absorbed from the soil.\n* **Products**: Glucose (\\(\\text{C}_6\\text{H}_{12}\\text{O}_6\\)) used for cellular energy and Oxygen (\\(\\text{O}_2\\)) released into the atmosphere.\n\n---\n\n#### 2. Where Photosynthesis Takes Place\nPhotosynthesis takes place inside specialized cell organelles called **chloroplasts**, primarily located in leaf mesophyll cells. Chloroplasts contain the green pigment **chlorophyll**, which absorbs blue and red wavelengths of light while reflecting green light.\n\n---\n\n#### 3. The Two Main Stages of Photosynthesis\n\n##### Stage A: Light-Dependent Reactions (Occurs in Thylakoid Membranes)\n1. **Light Absorption**: Chlorophyll captures photon energy from sunlight.\n2. **Photolysis (Water Splitting)**: Water molecules (\\(\\text{H}_2\\text{O}\\)) are split into hydrogen ions, electrons, and oxygen gas (\\(\\text{O}_2\\)).\n3. **Energy Conversion**: Solar energy is converted into chemical energy carrier molecules **ATP** and **NADPH**.\n\n##### Stage B: Light-Independent Reactions / Calvin Cycle (Occurs in Stroma)\n1. **Carbon Fixation**: The enzyme *RuBisCO* captures carbon dioxide (\\(\\text{CO}_2\\)) gas.\n2. **Sugar Synthesis**: ATP and NADPH from Stage A drive the conversion of carbon molecules into **G3P**, which synthesizes **Glucose**.\n\n---\n\n#### 4. Ecological & Global Importance\n1. **Oxygen Production**: Generates virtually all atmospheric oxygen needed by aerobic living organisms.\n2. **Primary Energy Base**: Forms the foundational base of terrestrial and aquatic food webs.\n3. **Climate Regulation**: Acts as a major natural carbon sink by absorbing atmospheric carbon dioxide.",
+          "timestamp": "2026-10-04T15:22:44.314Z",
+          "activeSearchTab": "web",
+          "isDeepSearch": false
+        },
+        {
+          "id": "msg-1791127463402-user",
+          "chatId": "chat-1791127341623",
+          "role": "user",
+          "content": "give a simple cod for snke game",
+          "timestamp": "2026-10-04T15:24:23.402Z",
+          "attachments": []
+        },
+        {
+          "id": "msg-1791127476380-assistant",
+          "chatId": "chat-1791127341623",
+          "role": "assistant",
+          "content": "### Deep Research Synthesis\n\n**Query**: \"give a simple cod for snke game\"\n**Sources Scanned**: 10 verified search results.\n\n#### Executive Summary\nBased on deep search analysis, **give a simple cod for snke game** represents a multifaceted topic with critical applications. Below is an exhaustive breakdown:\n\n#### Key Findings & Technical Analysis\n* **give a simple cod for snke game - Complete Guide & Official Overview**: In-depth analysis, current status, verified documentation and latest key insights regarding give a simple cod for snke game.\n* **Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game**: Explore live news updates, community commentary, and experts analysis for give a simple cod for snke game.\n* **GitHub Repository & Developer Resources for give a simple cod for snke game**: Open-source repositories, developer implementation guides, documentation and source code snippets for give a simple cod for snke game.\n* **Community Discussions & User Experience on give a simple cod for snke game**: Real-time community reviews, discussions, Q&A, and practical advice concerning give a simple cod for snke game.\n* **give a simple cod for snke game latest developments 2026 details analysis - Complete Guide & Official Overview**: In-depth analysis, current status, verified documentation and latest key insights regarding give a simple cod for snke game latest developments 2026 details analysis.\n* **Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game latest developments 2026 details analysis**: Explore live news updates, community commentary, and experts analysis for give a simple cod for snke game latest developments 2026 details analysis.\n* **GitHub Repository & Developer Resources for give a simple cod for snke game latest developments 2026 details analysis**: Open-source repositories, developer implementation guides, documentation and source code snippets for give a simple cod for snke game latest developments 2026 details analysis.\n* **Community Discussions & User Experience on give a simple cod for snke game latest developments 2026 details analysis**: Real-time community reviews, discussions, Q&A, and practical advice concerning give a simple cod for snke game latest developments 2026 details analysis.\n* **give a simple cod for snke game official documentation specs source - Complete Guide & Official Overview**: In-depth analysis, current status, verified documentation and latest key insights regarding give a simple cod for snke game official documentation specs source.\n* **Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game official documentation specs source**: Explore live news updates, community commentary, and experts analysis for give a simple cod for snke game official documentation specs source.\n\n#### In-Depth Breakdown\n1. **Core Fundamentals**: Key parameters surrounding give a simple cod for snke game confirm significant evolution in recent frameworks.\n2. **Practical Applications**: Modern implementations demonstrate robust efficiency gains across standard workflows.\n3. **Key Specifications**: Verified indexes confirm continuous developments and performance optimizations.\n",
+          "timestamp": "2026-10-04T15:24:36.380Z",
+          "searchResults": [
+            {
+              "id": "gen-1",
+              "title": "give a simple cod for snke game - Complete Guide & Official Overview",
+              "snippet": "In-depth analysis, current status, verified documentation and latest key insights regarding give a simple cod for snke game.",
+              "url": "https://wikipedia.org/wiki/give%20a%20simple%20cod%20for%20snke%20game",
+              "domain": "wikipedia.org",
+              "engine": "Wikipedia Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-2",
+              "title": "Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game",
+              "snippet": "Explore live news updates, community commentary, and experts analysis for give a simple cod for snke game.",
+              "url": "https://news.google.com/search?q=give%20a%20simple%20cod%20for%20snke%20game",
+              "domain": "news.google.com",
+              "engine": "Google News Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-3",
+              "title": "GitHub Repository & Developer Resources for give a simple cod for snke game",
+              "snippet": "Open-source repositories, developer implementation guides, documentation and source code snippets for give a simple cod for snke game.",
+              "url": "https://github.com/search?q=give%20a%20simple%20cod%20for%20snke%20game",
+              "domain": "github.com",
+              "engine": "GitHub Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-4",
+              "title": "Community Discussions & User Experience on give a simple cod for snke game",
+              "snippet": "Real-time community reviews, discussions, Q&A, and practical advice concerning give a simple cod for snke game.",
+              "url": "https://reddit.com/search/?q=give%20a%20simple%20cod%20for%20snke%20game",
+              "domain": "reddit.com",
+              "engine": "Reddit Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-1",
+              "title": "give a simple cod for snke game latest developments 2026 details analysis - Complete Guide & Official Overview",
+              "snippet": "In-depth analysis, current status, verified documentation and latest key insights regarding give a simple cod for snke game latest developments 2026 details analysis.",
+              "url": "https://wikipedia.org/wiki/give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis",
+              "domain": "wikipedia.org",
+              "engine": "Wikipedia Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-2",
+              "title": "Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game latest developments 2026 details analysis",
+              "snippet": "Explore live news updates, community commentary, and experts analysis for give a simple cod for snke game latest developments 2026 details analysis.",
+              "url": "https://news.google.com/search?q=give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis",
+              "domain": "news.google.com",
+              "engine": "Google News Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-3",
+              "title": "GitHub Repository & Developer Resources for give a simple cod for snke game latest developments 2026 details analysis",
+              "snippet": "Open-source repositories, developer implementation guides, documentation and source code snippets for give a simple cod for snke game latest developments 2026 details analysis.",
+              "url": "https://github.com/search?q=give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis",
+              "domain": "github.com",
+              "engine": "GitHub Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-4",
+              "title": "Community Discussions & User Experience on give a simple cod for snke game latest developments 2026 details analysis",
+              "snippet": "Real-time community reviews, discussions, Q&A, and practical advice concerning give a simple cod for snke game latest developments 2026 details analysis.",
+              "url": "https://reddit.com/search/?q=give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis",
+              "domain": "reddit.com",
+              "engine": "Reddit Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-1",
+              "title": "give a simple cod for snke game official documentation specs source - Complete Guide & Official Overview",
+              "snippet": "In-depth analysis, current status, verified documentation and latest key insights regarding give a simple cod for snke game official documentation specs source.",
+              "url": "https://wikipedia.org/wiki/give%20a%20simple%20cod%20for%20snke%20game%20official%20documentation%20specs%20source",
+              "domain": "wikipedia.org",
+              "engine": "Wikipedia Index",
+              "tab": "web"
+            },
+            {
+              "id": "gen-2",
+              "title": "Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game official documentation specs source",
+              "snippet": "Explore live news updates, community commentary, and experts analysis for give a simple cod for snke game official documentation specs source.",
+              "url": "https://news.google.com/search?q=give%20a%20simple%20cod%20for%20snke%20game%20official%20documentation%20specs%20source",
+              "domain": "news.google.com",
+              "engine": "Google News Index",
+              "tab": "web"
+            }
+          ],
+          "citations": [
+            {
+              "number": 1,
+              "title": "give a simple cod for snke game - Complete Guide & Official Overview",
+              "url": "https://wikipedia.org/wiki/give%20a%20simple%20cod%20for%20snke%20game"
+            },
+            {
+              "number": 2,
+              "title": "Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game",
+              "url": "https://news.google.com/search?q=give%20a%20simple%20cod%20for%20snke%20game"
+            },
+            {
+              "number": 3,
+              "title": "GitHub Repository & Developer Resources for give a simple cod for snke game",
+              "url": "https://github.com/search?q=give%20a%20simple%20cod%20for%20snke%20game"
+            },
+            {
+              "number": 4,
+              "title": "Community Discussions & User Experience on give a simple cod for snke game",
+              "url": "https://reddit.com/search/?q=give%20a%20simple%20cod%20for%20snke%20game"
+            },
+            {
+              "number": 5,
+              "title": "give a simple cod for snke game latest developments 2026 details analysis - Complete Guide & Official Overview",
+              "url": "https://wikipedia.org/wiki/give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis"
+            },
+            {
+              "number": 6,
+              "title": "Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game latest developments 2026 details analysis",
+              "url": "https://news.google.com/search?q=give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis"
+            },
+            {
+              "number": 7,
+              "title": "GitHub Repository & Developer Resources for give a simple cod for snke game latest developments 2026 details analysis",
+              "url": "https://github.com/search?q=give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis"
+            },
+            {
+              "number": 8,
+              "title": "Community Discussions & User Experience on give a simple cod for snke game latest developments 2026 details analysis",
+              "url": "https://reddit.com/search/?q=give%20a%20simple%20cod%20for%20snke%20game%20latest%20developments%202026%20details%20analysis"
+            },
+            {
+              "number": 9,
+              "title": "give a simple cod for snke game official documentation specs source - Complete Guide & Official Overview",
+              "url": "https://wikipedia.org/wiki/give%20a%20simple%20cod%20for%20snke%20game%20official%20documentation%20specs%20source"
+            },
+            {
+              "number": 10,
+              "title": "Latest Updates, Technical Breakdown & Insights: give a simple cod for snke game official documentation specs source",
+              "url": "https://news.google.com/search?q=give%20a%20simple%20cod%20for%20snke%20game%20official%20documentation%20specs%20source"
+            }
+          ],
+          "activeSearchTab": "web",
+          "isDeepSearch": true
+        }
+      ]
+    }
+  ]
+}
